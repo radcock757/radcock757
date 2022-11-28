@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+I am a passionate, results-driven professional transitioning into the cloud technology industry.I have 10 years of experience as a high producing real estate agent and Director of Operations, where I have gained a multifaceted skillset with the ability to learn and adapt to changing environments quickly. I am currently attending Level Up in Tech, a DevOps Engineering Bootcamp where I am learning the following skills: AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control.
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Adcock-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanaadcock/)](https://www.linkedin.com/in/ryanaadcock/)
+[![Medium Badge](https://img.shields.io/badge/Ryan%20Adcock-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.medium.com/@ryan.a.adcock/)](https://www.medium.com/@ryan.a.adcock/)
+[![Gmail Badge](https://img.shields.io/badge/-Ryan.A.Adcock@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Ryan.A.Adcock@gmail.com)](mailto:Ryan.A.Adcock@gmail.com)
 
 ## ⚡ Technologies
 
