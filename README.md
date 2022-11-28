@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a passionate, results-driven professional transitioning into the cloud technology industry.I have 10 years of experience as a high producing real estate agent and Director of Operations, where I have gained a multifaceted skillset with the ability to learn and adapt to changing environments quickly. I am currently attending Level Up in Tech, a DevOps Engineering Bootcamp where I am learning the following skills: AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control.
+I am a passionate, results-driven professional transitioning into the cloud technology industry. I have 10 years of experience as a high producing real estate agent and Director of Operations, where I have gained a multifaceted skillset with the ability to learn and adapt to changing environments quickly. I am currently attending Level Up in Tech, a DevOps Engineering Bootcamp where I am learning the following skills: AWS, Linux, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control.
 
 Find out more about me & feel free to connect with me here:
 
